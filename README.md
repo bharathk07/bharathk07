@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bharath k</h1>
 <img align="center" src="your_cool_intro.gif" alt="">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharathk07&label=Profile%20views&color=0e75b6&style=flat" alt="bharathk07" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bharathk07" alt="bharathk07" /></a> </p>
@@ -21,6 +22,7 @@
 <a href="https://twitter.com/bharathkswamy1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bharathkswamy1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/bharath-k-8b0590195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bharath-k-8b0590195" height="30" width="40" /></a>
 <a href="https://medium.com/@bharathkswamy07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bharathkswamy07" height="30" width="40" /></a>
+<a href="https://discord.gg/clashermr360#4109" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="clashermr360#4109" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
