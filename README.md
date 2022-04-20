@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bharath k</h1>
-<h3 align="center">A passionate full-stack web developer from India</h3>
+<h3 align="center" href="your_cool_intro.gif"></h3>
 
 - 🌱 I’m currently learning **MERN stack development**
 
