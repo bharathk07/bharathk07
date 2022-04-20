@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bharath k</h1>
-<h3 align="center" href="your_cool_intro.gif"></h3>
+<img align="center" src="your_cool_intro.gif" alt="">
 
 - 🌱 I’m currently learning **MERN stack development**
 
