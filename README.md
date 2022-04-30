@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bharath k</h1>
 
-<img align="left" src="your_cool_intro.gif" alt="">
+<img align="center" src="your_cool_intro.gif" alt="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharathk07&label=Profile%20views&color=0e75b6&style=flat" alt="bharathk07" /> </p>
 
