@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Bharath k</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bharathk07&label=Profile%20views&color=0e75b6&style=flat" alt="bharathk07" /> </p>
+
 
 <img align="center" src="your_cool_intro.gif" alt="">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bharathk07&label=Profile%20views&color=0e75b6&style=flat" alt="bharathk07" /> </p>
+
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bharathk07" alt="bharathk07" /></a> </p>
 
