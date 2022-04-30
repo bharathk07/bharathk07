@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bharath k</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharathk07&label=Profile%20views&color=0e75b6&style=flat" alt="bharathk07" /> </p>
-
+<a href="https://github.com/m-sehrawat?tab=followers"><img src="https://img.shields.io/github/followers/bharathk07?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <img align="center" src="your_cool_intro.gif" alt="">
 
